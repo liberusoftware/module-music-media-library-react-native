@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-media-library-react-native",
+  "capabilityKey": "liberusoftware/music-media-library",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-music-media-library-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/music/nextjs/media-library.md",
+  "presentationPlan": "projects/music/react-native/media-library.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
